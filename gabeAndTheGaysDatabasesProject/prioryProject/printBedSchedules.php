@@ -9,6 +9,8 @@
 
 <?php
 
+//look it's a change
+
 // open db file
 $db = new PDO('sqlite:./database/priorydb.db');
 // Set errormode to exceptions
